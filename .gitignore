@@ -1,0 +1,13 @@
+# Rust build artifacts
+server/target/
+
+# Node
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
