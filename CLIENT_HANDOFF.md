@@ -1,3 +1,5 @@
+> **Superseded** by `TICKWIRE_HANDOFF.md`: the SpacetimeDB backend is being replaced. Kept for reference until milestone M6.
+
 # poggersio Frontend — Handoff for Claude
 
 ## Mission
